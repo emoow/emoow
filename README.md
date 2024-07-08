@@ -2,7 +2,7 @@
 # Baiyi-Wang
 
 <h1 align="center">Hi 👋, I'm Baiyi Wang</h1>
-<h3 align="center">A Sociology student from China</h3>
+<h3 align="left">A Sociology student from China</h3>
 
 - 🌱 I’m currently learning **ABM**
 
